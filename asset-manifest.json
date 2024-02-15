@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jonnaagus/JonnaCV.git/static/css/main.f855e6bc.css",
+    "main.js": "/jonnaagus/JonnaCV.git/static/js/main.81774399.js",
+    "static/js/592.2bb294ac.chunk.js": "/jonnaagus/JonnaCV.git/static/js/592.2bb294ac.chunk.js",
+    "index.html": "/jonnaagus/JonnaCV.git/index.html",
+    "main.f855e6bc.css.map": "/jonnaagus/JonnaCV.git/static/css/main.f855e6bc.css.map",
+    "main.81774399.js.map": "/jonnaagus/JonnaCV.git/static/js/main.81774399.js.map",
+    "592.2bb294ac.chunk.js.map": "/jonnaagus/JonnaCV.git/static/js/592.2bb294ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.81774399.js"
+  ]
+}
