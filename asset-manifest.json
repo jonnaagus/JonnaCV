@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jonnaagus/JonnaCV.git/static/css/main.f855e6bc.css",
-    "main.js": "/jonnaagus/JonnaCV.git/static/js/main.81774399.js",
-    "static/js/592.2bb294ac.chunk.js": "/jonnaagus/JonnaCV.git/static/js/592.2bb294ac.chunk.js",
-    "index.html": "/jonnaagus/JonnaCV.git/index.html",
-    "main.f855e6bc.css.map": "/jonnaagus/JonnaCV.git/static/css/main.f855e6bc.css.map",
-    "main.81774399.js.map": "/jonnaagus/JonnaCV.git/static/js/main.81774399.js.map",
-    "592.2bb294ac.chunk.js.map": "/jonnaagus/JonnaCV.git/static/js/592.2bb294ac.chunk.js.map"
+    "main.css": "/JonnaCV/static/css/main.0aa74512.css",
+    "main.js": "/JonnaCV/static/js/main.eb5a2259.js",
+    "static/js/592.2bb294ac.chunk.js": "/JonnaCV/static/js/592.2bb294ac.chunk.js",
+    "index.html": "/JonnaCV/index.html",
+    "main.0aa74512.css.map": "/JonnaCV/static/css/main.0aa74512.css.map",
+    "main.eb5a2259.js.map": "/JonnaCV/static/js/main.eb5a2259.js.map",
+    "592.2bb294ac.chunk.js.map": "/JonnaCV/static/js/592.2bb294ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.81774399.js"
+    "static/css/main.0aa74512.css",
+    "static/js/main.eb5a2259.js"
   ]
 }
