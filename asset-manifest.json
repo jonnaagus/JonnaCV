@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/JonnaCV/static/css/main.c9fd260d.css",
-    "main.js": "/JonnaCV/static/js/main.019af971.js",
+    "main.js": "/JonnaCV/static/js/main.38765464.js",
     "static/js/592.2bb294ac.chunk.js": "/JonnaCV/static/js/592.2bb294ac.chunk.js",
     "static/media/image0.jpeg": "/JonnaCV/static/media/image0.ac4686e23c5a9bf350be.jpeg",
     "static/media/blommor.jpg": "/JonnaCV/static/media/blommor.0246bbfb7c046f6286a3.jpg",
     "static/media/blomma.jpg": "/JonnaCV/static/media/blomma.29b0796cbb448ae1bbbc.jpg",
     "index.html": "/JonnaCV/index.html",
     "main.c9fd260d.css.map": "/JonnaCV/static/css/main.c9fd260d.css.map",
-    "main.019af971.js.map": "/JonnaCV/static/js/main.019af971.js.map",
+    "main.38765464.js.map": "/JonnaCV/static/js/main.38765464.js.map",
     "592.2bb294ac.chunk.js.map": "/JonnaCV/static/js/592.2bb294ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9fd260d.css",
-    "static/js/main.019af971.js"
+    "static/js/main.38765464.js"
   ]
 }
